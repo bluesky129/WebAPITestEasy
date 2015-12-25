@@ -2,7 +2,7 @@
  * Created by WFSO on 2015-12-25.
  */
 
-b = $("body").bindSubmit();
+b = $("body").WebTestEasy().html('');
 b.addFE({
     enctype:"application/json",
     method:"POST",

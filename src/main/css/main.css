@@ -1,4 +1,39 @@
 /*
  Create By WFSO on 2015-12-25
 */
+.eCenter{
+ margin-left:auto;
+ margin-right: auto;
+}
 
+.wp-20{
+ width:20%
+}
+.wp-30{
+ width:30%
+}
+.wp-40{
+ width:40%
+}
+.wp-50{
+ width:50%
+}
+.wp-60{
+ width:60%
+}
+.wp-70{
+ width:70%
+}
+.wp-80{
+ width:80%
+}
+.wp-90{
+ width:90%
+}
+.wp-100{
+ width:100%
+}
+
+.testWidth{
+ width:500px;
+}

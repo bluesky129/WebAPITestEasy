@@ -1,7 +1,28 @@
 /*
  Create By WFSO on 2015-12-25
 */
+.WTE-context{
+    margin:10px auto 5px auto;
+    border-color:#1b6d85;
+    border-style: solid;
+    border-radius:15px;
+    border-width:2px;
+}
+.WTE-context .content{
+    min-height:50px;
+    margin:15px 15px 5px 15px;
+}
 
+.WTE-context .content label{
+    text-align:left;
+}
+
+.WTE-context .title{
+    margin:5px 0 5px 0;
+    padding:3px 0;
+    border-bottom: solid 2px #1b6d85;
+    text-align:center;
+}
 .layer{
-    margin-left:20px;
+    margin-left:33%;
 }
